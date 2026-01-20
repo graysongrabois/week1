@@ -1,0 +1,39 @@
+# ===========================================
+# Data Science Tour - Requirements
+# ===========================================
+# Install all packages with:
+#   pip install -r requirements.txt
+# ===========================================
+
+# Core Data Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Statistical Analysis
+scipy>=1.10.0
+
+# Jupyter Environment
+jupyterlab>=4.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# Excel File Support (for reading/writing xlsx files)
+openpyxl>=3.1.0
+
+# Optional but Recommended
+# ------------------------
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Interactive Visualizations
+plotly>=5.15.0
+
+# Statistical Modeling
+statsmodels>=0.14.0
+
+# Progress Bars
+tqdm>=4.65.0
